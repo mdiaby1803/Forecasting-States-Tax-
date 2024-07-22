@@ -4,8 +4,8 @@ This repository contains a Jupyter notebook for forecasting sales tax collection
 
 ## Files
 
-- **`forecast.ipynb`**: Jupyter notebook containing the code for data analysis and forecasting.
-- **`forecasting.pdf`**: PDF document with the graphs generated from the analysis.
+- **`forecasting.ipynb`**: Jupyter notebook containing the code for data analysis and forecasting.
+- **`forecast.py`**: PDF document with the graphs generated from the analysis.
 
 ## Analysis Overview
 
